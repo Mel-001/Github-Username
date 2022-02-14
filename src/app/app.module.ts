@@ -8,6 +8,7 @@ import { GitDisplayComponent } from './git-display/git-display.component';
 import { GitFormComponent } from './git-form/git-form.component';
 import { LandingpageComponent } from './landingpage/landingpage.component';
 import { UppercaseDirective } from './uppercase.directive';
+import { DateCountPipe } from './date-count.pipe';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { UppercaseDirective } from './uppercase.directive';
     GitDisplayComponent,
     GitFormComponent,
     LandingpageComponent,
-    UppercaseDirective
+    UppercaseDirective,
+    DateCountPipe
   ],
   imports: [
     BrowserModule,
