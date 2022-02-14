@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { GitDisplayComponent } from './git-display/git-display.component';
 import { GitFormComponent } from './git-form/git-form.component';
 import { LandingpageComponent } from './landingpage/landingpage.component';
+import { UppercaseDirective } from './uppercase.directive';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
     NavbarComponent,
     GitDisplayComponent,
     GitFormComponent,
-    LandingpageComponent
+    LandingpageComponent,
+    UppercaseDirective
   ],
   imports: [
     BrowserModule,
