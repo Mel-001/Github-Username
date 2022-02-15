@@ -1,27 +1,29 @@
-# Github
+# Github Search
+#### Author Melonie langat
+## Description
+This is a simple web app that uses Github API to display users and accounts
+## Screenshot
+<img src="src/assets/Screenshot from 2022-02-15 13-13-08.png" alt="">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Setup/Installation Requirements
+* Clone the repository to your computer from 
+        [https://github.com/Mel-001/Github-Username.git]
+* Open the project using your preferred code editor.
+* Open the project using a web browser, preferably Google Chrome.
+## Known Bugs
+There are no known bugs
+## Technologies Used
+HTML 
+CSS
+Bootstrap
+Angular
+Typscript
+## Support and contact details
+for any query or support reach me via.
+* melonielangat@gmail.com
+### License
+This project is under [MIT](LICENSE).
+### Collaborators
+Melonie Langat
