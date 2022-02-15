@@ -8,9 +8,9 @@ describe('GitDisplayComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ GitDisplayComponent ]
+      declarations: [GitDisplayComponent]
     })
-    .compileComponents();
+      .compileComponents();
   });
 
   beforeEach(() => {

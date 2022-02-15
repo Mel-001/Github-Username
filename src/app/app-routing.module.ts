@@ -7,7 +7,8 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
 
 const routes: Routes = [
   { path: 'git-display', component: GitDisplayComponent},
-  { path: 'landingpage', component: LandingpageComponent}
+  { path: 'landingpage', component: LandingpageComponent},
+  { path: '', redirectTo: '/git-display', pathMatch: 'full'}
 ];
 
 
